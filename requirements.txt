@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv
+fitz
+frontend
+pymupdf
+langchain-text-splitters
+langchain-openai
+sentence_transformers
+langchain_huggingface
