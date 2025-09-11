@@ -14,3 +14,6 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 beautifulsoup4
+matplotlib
+seaborn
+numpy
